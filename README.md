@@ -44,9 +44,6 @@ the concept of characteristics pairing between sensor nodes energy utilization i
 outcomes show that our formulated protocol inefficiently expanded the network parameters and can be 
 a useful strategy for WSNs.
 
-<br /> 
-
-
 
 ## Introduction
 
