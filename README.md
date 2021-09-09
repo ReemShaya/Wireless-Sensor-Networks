@@ -54,6 +54,11 @@ energy, storage, and activity force. the node master returns data to data collec
 collected data to the base station (BS). Then, the network lifetime and laws turn into the main laws for the 
 efficient and effective design of data collection techniques in WSN.
 
+Therefore, a protocol designed to save energy to be more qualitative and efficient, reduce energy 
+consumption and contribute to prolonging network lifetime. In this report, we will talk about the two most 
+important protocols that contribute to saving energy and increasing network lifetime and throughput:
+
+#### 1. Low energy adaptive clustering hierarchy (LEACH) protocol:
 
 <br /> 
 
