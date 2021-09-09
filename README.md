@@ -59,6 +59,17 @@ consumption and contribute to prolonging network lifetime. In this report, we wi
 important protocols that contribute to saving energy and increasing network lifetime and throughput:
 
 #### 1. Low energy adaptive clustering hierarchy (LEACH) protocol:
+LEACH protocol known for providing data collection is introduced. Provides energy efficient routing in 
+wireless sensor network based on all good data and optimized aggregation. In this system, the number of 
+arrows per group is to reduce the power to hold the sensors and to optimize the use of resources. Energy 
+saving steering can be obtained by nodes which become maximum residual power. Hence, the highest 
+power transmission nodes are selected directing the data to the BS. Helps provide better packet ratio with 
+better energy use. It is a very important and useful protocol as it saves a lot of energy and does not need 
+control information, in addition to that it is fully distributed. But he has a few flaws, such as that the 
+division of groups is random and unorganized, and this is negative in many cases, and if the head of the 
+block dies, it becomes useless and we need another head, and this may be considered costly and cause a 
+loss of time.
+
 
 <br /> 
 
