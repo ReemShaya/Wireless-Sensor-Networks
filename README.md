@@ -47,6 +47,13 @@ a useful strategy for WSNs.
 
 ## Introduction
 
+In wireless sensor networks, each sensor node has a certain number of energies to perform tasks such as 
+communication between nodes, computing, etc. They are generally deployed so their batteries are difficult 
+to access and replace. A wireless sensor network (WSN) consists of a big number of sensor nodes for 
+energy, storage, and activity force. the node master returns data to data collection and then returns the
+collected data to the base station (BS). Then, the network lifetime and laws turn into the main laws for the 
+efficient and effective design of data collection techniques in WSN.
+
 
 <br /> 
 
