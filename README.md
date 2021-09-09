@@ -69,7 +69,14 @@ control information, in addition to that it is fully distributed. But he has a f
 division of groups is random and unorganized, and this is negative in many cases, and if the head of the 
 block dies, it becomes useless and we need another head, and this may be considered costly and cause a 
 loss of time.
-
+The usability of LEACH protocol is considered as: A Wireless Multimedia Sensor Network is typically a 
+Wireless Sensor Network which deals with multimedia data (e.g., video or audio). A Wireless Multimedia 
+Sensor Networks have their own properties: they deal with a large amount of data and have strict Quality 
+of Service requirements. We show that most routing protocols for WSNs are not appropriate to WMSNs, 
+by using the LEACH protocols as examples. Moreover, we show that these protocols fail to provide the 
+required Quality of Service (QoS), consume a large amount of energy, and require large frame sizes. 
+Finally, we present the key issues in adapting LEACH protocols for a Wireless Multimedia Sensor 
+Networks, to routing and MAC layers.
 
 <br /> 
 
