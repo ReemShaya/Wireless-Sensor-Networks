@@ -79,6 +79,12 @@ Finally, we present the key issues in adapting LEACH protocols for a Wireless Mu
 Networks, to routing and MAC layers.
 
 <br /> 
+#### 2. Energy Efficient Sleep Awake Aware (EESAA) protocol:
+it is a load balancing protocol, which means make the CHs selection technique more efficient, by choosing 
+CHs conforming to the left-over energy of the nodes. Our goal is to decrease energy consumption to 
+enhance network stability time and network lifetime. to aim this goal, we come with the concept of pairing. 
+Sensor nodes of the same application and close to each other will form a pair for data sensing and 
+communication, here more descriptions and details of coupling among nodes are defined:
 
 ## Comparison between LEACH & EESAA
 
