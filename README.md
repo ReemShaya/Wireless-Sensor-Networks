@@ -99,7 +99,7 @@ between the nodes.
 interval.
 6. the nodes in the " active node " will collect data from the surroundings and send it to the CHs.
 7. in this period, the transceiver of the coupled node will stay "off" and turn into "Sleep-mode".
-8. then, nodes in "Active-mode" will turn to "Sleep-mode" and "Sleep-mode" nodes turn to "activemode and so on."
+8. then, nodes in "Active-mode" will turn to "Sleep-mode" and "Sleep-mode" nodes turn to "active-mode and so on."
 
 
 ## Comparison between LEACH & EESAA
