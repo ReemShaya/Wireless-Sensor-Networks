@@ -87,6 +87,10 @@ enhance network stability time and network lifetime. to aim this goal, we come w
 Sensor nodes of the same application and close to each other will form a pair for data sensing and 
 communication, here more descriptions and details of coupling among nodes are defined:
 
+#####  Coupling in the network:
+
+
+
 
 ## Comparison between LEACH & EESAA
 
