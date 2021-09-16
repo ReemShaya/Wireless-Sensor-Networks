@@ -89,7 +89,17 @@ communication, here more descriptions and details of coupling among nodes are de
 
 #####  Coupling in the network:
 
-
+1. Nodes transfer their location information, which is (application type & node identifier) to the base 
+station (BS). 
+2. after locating the positions of the nodes using GPS, the base station calculates the joint distance 
+between the nodes.
+3. then Nodes of the same type of application and close to each other, are coupled by the BS.
+4. Then, the BS transmits to all nodes in the network the matching information.
+5. so, the Nodes turn from "Sleep" mode to "Awake" or "Active" mode while a single communication 
+interval.
+6. the nodes in the " active node " will collect data from the surroundings and send it to the CHs.
+7. in this period, the transceiver of the coupled node will stay "off" and turn into "Sleep-mode".
+8. then, nodes in "Active-mode" will turn to "Sleep-mode" and "Sleep-mode" nodes turn to "activemode and so on."
 
 
 ## Comparison between LEACH & EESAA
