@@ -101,15 +101,20 @@ interval.
 7. in this period, the transceiver of the coupled node will stay "off" and turn into "Sleep-mode".
 8. then, nodes in "Active-mode" will turn to "Sleep-mode" and "Sleep-mode" nodes turn to "active-mode and so on."
 
-
-## Comparison between LEACH & EESAA
-
 The advantage is that Power consumption is reduced because nodes in sleep mode do not 
 communicate with the CHs, and do not occupy the channel while "sleep mode", otherwise, the 
 isolated nodes, stay in " active mode " for each turn until their energy, but sometimes, there can be 
 many "isolated nodes" in the cluster that neglected in the coupling process, will stay active for the 
 whole network lifetime, and will consume a lot of energy, it is true this technique reduces Power 
 consumption but still, it is not that good enough for network requirements.
+
+
+
+## Comparison between LEACH & EESAA
+
+We will make a comparison between the two protocols from several aspects, the most important of 
+which is in terms of network life, then in terms of energy consumption and finally in terms of 
+performance:
 
 <br /> 
 
